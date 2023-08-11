@@ -15,4 +15,4 @@ jobs:
           GH_PAT: ${{ secrets.GH_PAT }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GH_USERNAME: sujinsu
-          GIST_ID: 48eb127e4f1ba7f29b4d9d3214bc9367
+          GIST_ID: 72cbac55afdbd1f521a5a9d31c0ae236
